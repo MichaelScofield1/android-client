@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">简单广告</string>
+    <string name="login">用户登录</string>
+    <string name="register">用户注册</string>
+    <string name="ad_download">广告下载</string>
+ 	<string name="serverNotification">serverNotification</string>
+</resources>
